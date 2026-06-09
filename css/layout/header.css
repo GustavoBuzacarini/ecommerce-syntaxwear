@@ -7,10 +7,10 @@
     border-radius: 20px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     position: fixed;
-    top: 20px;
+    top: 50px;
     left: 50%;
     transform: translateX(-50%);
-    width: 98%;
+    width: 87%;
     z-index: 999;
     font-family: var(--fonte-principal);
 }
